@@ -1,4 +1,4 @@
-# -Basketball-video-game
+# Basketball-video-game
 
 ## Objectives
 Develop initial knowledge used in first assignment and improve the knowledge of the VHDL language.
