@@ -1,7 +1,7 @@
 # Basketball-video-game
 
 ## Objectives
-Develop initial knowledge used in first assignment and improve the knowledge of the VHDL language.
+Develop initial knowledge used [here](https://github.com/jwilloa/Settable-countdown-timer-with-4-digit-7-segment-display.git) and improve the knowledge of the VHDL language.
 
 The task for this assignment is to implement a simplified “Basketball” video game.
 The basic layout should include a basket, a ball, and a player. The ball flies, following a
