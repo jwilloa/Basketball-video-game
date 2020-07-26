@@ -3,7 +3,8 @@
 ## Objectives
 Develop initial knowledge used [here](https://github.com/jwilloa/Settable-countdown-timer-with-4-digit-7-segment-display.git) and improve the knowledge of the VHDL language.
 
-The task for this assignment is to implement a simplified “Basketball” video game.
+# Project description
+Implement a simplified “Basketball” video game.
 The basic layout should include a basket, a ball, and a player. The ball flies, following a
 parabolic trajectory, towards the basket. If the ball enters the basket a point is awarded.
 By using the controls available on the Basys3 board, the user determines the direction and
